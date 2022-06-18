@@ -2,7 +2,7 @@
     "$schema": "http://json.schemastore.org/prettierrc",
     "semi": true,
     "singleQuote": false,
-    "printWidth": 140,
+    "printWidth": 130,
     "tabWidth": 2,
     "useTabs": false,
     "quoteProps": "as-needed",
@@ -12,3 +12,4 @@
     "endOfLine": "lf",
     "vueIndentScriptAndStyle": false
   }
+                                                                                                                                 
