@@ -1,1 +1,1 @@
-# prettier-config
+A simple default prettier config

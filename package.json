@@ -1,0 +1,12 @@
+    {
+      "name": "@frazcake/prettier-config",
+      "version": "1.0.0",
+      "description": "A default Prettier configuration",
+      "main": "config.json",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/FrazCake/prettier-config"
+      },
+      "author": "Frazcake",
+      "license": "MIT"
+    }
